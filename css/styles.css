@@ -1,2 +1,11 @@
-
+body {
+    font-size: 18px;
+}
+.Welcome {
+    background-image: url(https://raw.githubusercontent.com/754Bree/Delani-Studio/master/Background/c_image.jpg);
+    width: 100%;
+    height: 600px;
+    text-align: center;
+    
+}
     
