@@ -2,16 +2,19 @@ body {
     font-size: 18px;
 }
 .Welcome {
-    background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg);
+    background-image: url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/h_img.jpg);
     height: 600px;
     width: 100%;
     text-align: center;
     padding-top: 12%;
+    
 }
 .Welcome h3 {
     padding-top: 15px;
+    color: white;
 }
-.Welcome h4 {
+.Welcome h5 {
+    color: white;
     padding-top: 15px;
 }
 .aboutus {
@@ -22,24 +25,30 @@ body {
 .aboutus h2 {
     padding-top: 40px;
 }
-.services h2 {
-    background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/s_image.jpg");
-    height: 350px;
-    color: white;
+.services  {
+    background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/s_image.jpg);
+    height: 50vh;
+    color: white; 
     text-align: center;
+    justify-content: center;
+    padding: 30px;
 }
 .services h2 {
     padding-top: 55px;
 }
-.whatwedo {
+.services p {
+
+    padding-top: 10px;;
+}
+.what-we-do {
     text-align: center;
     height: 300px;
     color: black;
 }
-.whatwedo h2 {
+.what-we-do h2 {
     padding-top: 30px;
 }
-.toogle {
+.container-toggle {
     grid-row-start: 4;
     grid-row-end: 5;
     padding-top: 3%;
