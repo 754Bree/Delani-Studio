@@ -8,7 +8,34 @@ body {
     padding-top: 12%;
     color: white;
 }
+.aboutus {
+    padding-top: 8px;
+}
+.services {
+    background-image: url(https://github.com/754Bree/Delani-Studio/blob/master/Background/s_image.jpg?raw=true);
+    height: 300px;
+    padding-top: 5%;
+    color: white;
+}
+.container-toggle {
+    padding-top: 5%;
+}
+.text {
+    display: none;
+}
 
+
+
+
+
+
+
+
+
+/*.aboutus {
+    
+
+}*/
 
 
 
