@@ -1,4 +1,30 @@
 body {
+    text-align: center;
+}
+.Welcome {
+    background-image: url(https://github.com/754Bree/Delani-Studio/blob/master/Background/h_img.jpg?raw=true);
+    height: 600px;
+    width: 100%;
+    padding-top: 12%;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*body {
     font-size: 18px;
 }
 .Welcome {
@@ -25,7 +51,7 @@ body {
 .services h2 {
     background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/s_image.jpg");
     height: 350px;
-    color: white;
+    color: black;
     text-align: center;
 }
 .services h2 {
@@ -109,7 +135,7 @@ input[type="submit"],
   border: 1px white;
   color: white;
   /* padding-top: px; */
-  padding-bottom: 10px;
+  /*padding-bottom: 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -120,7 +146,7 @@ input[type="submit"],
     padding-top: 20px;
     margin-top: 8%;
     padding-bottom: 20px;
-}
+}*/
 /* #design{
   background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/services_icons/design_icon.png");
   heigh
