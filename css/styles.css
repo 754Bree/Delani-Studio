@@ -20,10 +20,31 @@ body {
 .container-toggle {
     padding-top: 5%;
 }
-.text {
+.text-1 {
     display: none;
+    text-align: center;
+}
+.text-2{
+    display: none;
+    text-align: center;
+}
+.text-3 {
+    display: none;
+    text-align: center;
+}
+.container-portfolio {
+    padding-top:  5%;
 }
 
+
+
+
+
+
+
+/*.container-portfolio {
+
+}*/
 
 
 
