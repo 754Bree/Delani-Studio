@@ -34,7 +34,16 @@ body {
 }
 .container-portfolio {
     padding-top:  5%;
+    display: inline;
 }
+.col-md-3 {
+    display: inline-table;
+    height: 15%;
+    width: 15%;
+}
+/*.row-prfolio1 {
+   display: inline;
+}*/
 
 
 
