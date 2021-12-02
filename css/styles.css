@@ -1,4 +1,240 @@
 body {
+    text-align: center;
+    font-size:large ;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto', sans-serif;
+}
+.header {
+    background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true);
+    height: 400px;
+    width: auto;
+    padding: 20%;
+    color: white;
+}
+.header .image {
+    padding: 30%;
+}
+ .about-us {
+     padding-top: 20px;
+ }
+ .services {
+    background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/s_image.jpg?raw=true);
+    height: 250px;
+    padding-top: 10%;
+    color:white;
+ }
+
+ .wwd {
+    display: flex;
+    padding-left: 30%;
+    padding-right: 25%;
+    align-self: center;
+ }
+ .row1 {
+    display: flex;
+    padding: 30px;
+
+ }
+.row2 {
+    display: flex;
+    padding: 30px;
+}
+.contact-us {
+    background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/c_image.jpg?raw=true);
+    padding-top: 20px; ;
+    height: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*body {
+    text-align: center;
+}
+.Welcome {
+    background-image: url(https://github.com/754Bree/Delani-Studio/blob/master/Background/h_img.jpg?raw=true);
+    height: 600px;
+    width: 100%;
+    padding-top: 12%;
+    color: white;
+}
+.aboutus {
+    padding-top: 8px;
+}
+.services {
+    background-image: url(https://github.com/754Bree/Delani-Studio/blob/master/Background/s_image.jpg?raw=true);
+    height: 300px;
+    padding-top: 5%;
+    color: white;
+}
+.container-toggle {
+    padding-top: 5%;
+}
+.text-1 {
+    display: none;
+    text-align: center;
+}
+.text-2{
+    display: none;
+    text-align: center;
+}
+.text-3 {
+    display: none;
+    text-align: center;
+}
+.container-portfolio {
+    padding-top:  50px;
+
+
+}
+.row-1{
+    display:flex ;
+
+}
+.row-2 {
+    display: flex;
+    padding: 20%;
+    word-spacing: 10px;
+    border: 10px;
+}
+.container-fluid-contactus {
+    background-image: url(https://github.com/754Bree/Delani-Studio/blob/master/Background/c_image.jpg?raw=true);
+    padding-top: 50px;
+}
+
+/*.row-prfolio1 {
+   display: inline;
+}*/
+
+
+
+
+
+
+
+/*.container-portfolio {
+
+}*/
+
+
+
+
+
+
+
+
+/*.aboutus {
+
+
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*body {
     font-size: 18px;
 }
 .Welcome {
@@ -7,7 +243,7 @@ body {
     width: 100%;
     text-align: center;
     padding-top: 12%;
-    
+
 }
 .Welcome h3 {
     padding-top: 15px;
@@ -25,10 +261,10 @@ body {
 .aboutus h2 {
     padding-top: 40px;
 }
-.services  {
-    background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/s_image.jpg);
-    height: 50vh;
-    color: white; 
+.services h2 {
+    background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/s_image.jpg");
+    height: 350px;
+    color: black;
     text-align: center;
     justify-content: center;
     padding: 30px;
@@ -118,7 +354,7 @@ input[type="submit"],
   border: 1px white;
   color: white;
   /* padding-top: px; */
-  padding-bottom: 10px;
+  /*padding-bottom: 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -129,7 +365,7 @@ input[type="submit"],
     padding-top: 20px;
     margin-top: 8%;
     padding-bottom: 20px;
-}
+}*/
 /* #design{
   background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/services_icons/design_icon.png");
   heigh

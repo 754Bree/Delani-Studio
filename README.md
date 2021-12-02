@@ -27,7 +27,11 @@ Click <a href="https://754bree.github.io/Delani-Studio/">here</a> to view livepa
 
 # Credits
  
+<<<<<<< HEAD
 ### I would like to thank <strong>Moringa School</strong> for providing resource materials for reference.
+=======
+#### I would like to thank <strong>Moringa School</strong> for providing resource materials for reference.
+>>>>>>> master
 
 # License
 
