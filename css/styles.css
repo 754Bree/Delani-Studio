@@ -34,8 +34,12 @@
     align-items: center;
     display: flex;
     padding-left: 1.5rem;
-    padding-right: 1.5rem;    
-
+    padding-right: 1.5rem;
+    padding-top: 2%;
+    padding-bottom: 2%;    
+}
+.container-4 {
+    background-image: url(https://github.com/754Bree/Delani-Studio/blob/master/Background/c_image.jpg?raw=true);
 }
 
 
