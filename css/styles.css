@@ -51,6 +51,14 @@
     background-image: url(https://github.com/754Bree/Delani-Studio/blob/master/Background/c_image.jpg?raw=true);
     text-align: center;
 }
+.container-fluid-8 .social-icons{
+    padding-top: 4%;
+    text-align: center;
+    
+}
+.container-fluid-8 .footer-text {
+    text-align: center;
+}
 
 
 
