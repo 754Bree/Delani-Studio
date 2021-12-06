@@ -1,3 +1,4 @@
+
 .container-fluid-1 .header {
     background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true);
     height: max-content;
@@ -5,7 +6,7 @@
     padding-bottom: 15%;
     color: white;
     text-align: center;
-    font-size: large;
+    font-size: x-large;
     
 }
 .image {
@@ -16,6 +17,7 @@
     padding-top: 2.5%;
     padding-bottom: 4%;
     text-align: center;
+    font-size: large;
 }
 .container-fluid-3 {
     background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/s_image.jpg?raw=true);
@@ -27,6 +29,7 @@
 .container-fluid-5 .what-we-do {
     text-align: center;
 }
+
 .container-fluid-5 .row {
     padding-top: 4%;
     padding-bottom: 2%
@@ -34,6 +37,10 @@
 .container-fluid-5 .wwd {
     display: flex;
     text-align: center;
+    justify-content: space-between;
+}
+.container-fluid-5 .text {
+    display: none;
 }
 .container-fluid-6 {
     text-align: center;
@@ -49,6 +56,7 @@
 }
 .container-fluid-7 {
     background-image: url(https://github.com/754Bree/Delani-Studio/blob/master/Background/c_image.jpg?raw=true);
+    height: 400px;;
     text-align: center;
 }
 .container-fluid-8 .social-icons{
