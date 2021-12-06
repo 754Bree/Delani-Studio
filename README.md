@@ -6,6 +6,9 @@
 
 ### Delani Studio,a project built single-handedly using HTML, CSS & JavaScript to come up with a recreational landing page.
 
+## Languages used:
+<br>1.HTML<br>2.CSS<br>3. JavaScript 
+
 # How to use:
 
 ## Reqiurements
@@ -27,11 +30,7 @@ Click <a href="https://754bree.github.io/Delani-Studio/">here</a> to view livepa
 
 # Credits
  
-<<<<<<< HEAD
-### I would like to thank <strong>Moringa School</strong> for providing resource materials for reference.
-=======
 #### I would like to thank <strong>Moringa School</strong> for providing resource materials for reference.
->>>>>>> master
 
 # License
 
