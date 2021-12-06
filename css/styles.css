@@ -1,9 +1,9 @@
-.container-1 {
+.container-fluid-1 .header {
     background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true);
-    height: 330px;
-    width: fit-content;
+    height: max-content;
+    width: auto;
     padding-bottom: 15%;
-    color: black;
+    color: white;
     text-align: center;
     font-size: large;
     
@@ -12,24 +12,33 @@
     padding-top: 15px;
     padding-bottom: 5px;
 }
-.container-2 {
-    padding-top: 4.8%;
+.container-fluid-2 {
+    padding-top: 2.5%;
     padding-bottom: 4%;
+    text-align: center;
 }
-.container-3 {
+.container-fluid-3 {
     background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/s_image.jpg?raw=true);
     padding-top: 4%;
     padding-bottom: 4%;
-    color: white;  
+    color: white; 
+    text-align: center; 
 }
-.container-fluid .row {
+.container-fluid-5 .what-we-do {
+    text-align: center;
+}
+.container-fluid-5 .row {
     padding-top: 4%;
     padding-bottom: 2%
 }
-.container-fluid .wwd {
+.container-fluid-5 .wwd {
     display: flex;
+    text-align: center;
 }
-.container-portfolio .row {
+.container-fluid-6 {
+    text-align: center;
+}
+.container-fluid-6 .row {
     justify-content: space-between;
     align-items: center;
     display: flex;
@@ -38,8 +47,9 @@
     padding-top: 2%;
     padding-bottom: 2%;    
 }
-.container-4 {
+.container-fluid-7 {
     background-image: url(https://github.com/754Bree/Delani-Studio/blob/master/Background/c_image.jpg?raw=true);
+    text-align: center;
 }
 
 
